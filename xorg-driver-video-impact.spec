@@ -1,5 +1,5 @@
 Summary:	X.org video driver for SGI Indigo2 and Octane
-Summary(pl):	Sterownik obrazu X.org dla SGI Indigo2 i Octane
+Summary(pl.UTF-8):   Sterownik obrazu X.org dla SGI Indigo2 i Octane
 Name:		xorg-driver-video-impact
 Version:	0.2.0
 Release:	0.1
@@ -22,7 +22,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 X.org video driver for SGI Indigo2 and Octane.
 
-%description -l pl
+%description -l pl.UTF-8
 Sterownik obrazu X.org dla SGI Indigo2 i Octane.
 
 %prep
